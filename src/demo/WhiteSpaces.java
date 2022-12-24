@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class WhiteSpaces {
 public static void main(String[] args) {
-	//String s1=" p u n e M H";
+	//String s1=" p u n e ";
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Enter string with spaces:");
 	String s1=sc.nextLine();
